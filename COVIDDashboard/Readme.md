@@ -6,6 +6,8 @@ Dashboard tracks the number of covid cases over the Year 2020 in the United Stat
 
 The data is sourced from the New York Times, based on reports from state and local health agencies. More information about the data and the metrics can be found here: https://github.com/nytimes/covid-19-data
 
+You can access the app here: https://covid-dashboard-20.herokuapp.com/
+
 <h3> Getting Started </h3>
 
 ---
