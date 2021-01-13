@@ -45,4 +45,4 @@ python app.py
 ```
 
 Dashboard:
-![Alt text](/assets/COVID_Dashboard.PNG?raw=true)
+![Alt text](https://github.com/shroffp05/dashapps/blob/main/COVIDDashboard/assets/COVID_Dashboard.PNG?raw=true)
