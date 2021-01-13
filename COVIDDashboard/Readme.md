@@ -43,3 +43,6 @@ To run the app:
 ```
 python app.py 
 ```
+
+Dashboard:
+![Alt text](/assets/COVID_Dashboard.PNG?raw=true)
